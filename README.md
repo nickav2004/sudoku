@@ -1,6 +1,6 @@
-# sudoku solver 
+# Sudoku Solver 
 
-# To install
+## To install
 
 ```bash 
 git clone https://github.com/nickav2004/sudoku.git
